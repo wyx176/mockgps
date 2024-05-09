@@ -6,4 +6,4 @@
 
 ## **3、Root模式下支持V信朋友圈、共享位置、以及小程序定位修改、wifi模拟。**
 
-## **网盘：[https://pan.tgo.ngo](https://pan.tgo.ngo)**
+## **最新版本网盘：[https://pan.tgo.ngo](https://pan.tgo.ngo)**
